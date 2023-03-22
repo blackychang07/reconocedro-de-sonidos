@@ -1,0 +1,26 @@
+img
+{
+    height: 400px;
+}
+
+body
+{
+text-align: center;
+background-image: url(https://i.ytimg.com/vi/ikUyPE6EzvQ/hqdefault.jpg);
+color: rgb(6, 236, 253) !important;
+font-family: 'Rubik Iso', cursive !important;
+}
+
+#creditos
+{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+#gif2
+{
+max-width: 250px;
+}
+
+ 
